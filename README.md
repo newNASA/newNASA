@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on ZabonAi project<br>🌱 I’m currently learning Aiogram3<br>⚡️ Fun fact i have a telegram channel check it out now @aziziy_dev
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/aziziydev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/azizbek-gulomov) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aziziydev) 
 
