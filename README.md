@@ -4,7 +4,7 @@
 </h1>
 
 <div>
-  <img src="https://github.com/newNASA/newNASA/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+  <img src="https://github.com/Boburbro/Boburbro/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </div>
 
 # 💫 About Me:
